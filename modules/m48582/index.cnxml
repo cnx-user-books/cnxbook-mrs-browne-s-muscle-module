@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Muscular System Module 6:  Cardiac Muscle Tissue</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m48582</md:content-id>
+  <md:title>Muscular System Module 6:  Cardiac Muscle Tissue</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe intercalated discs and gap junctions</item>
+<item>Describe a desmosome</item>
+</list></md:abstract>
+  <md:uuid>8ff1e0a4-661b-4f24-88a2-372a2aee031a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1978114">Cardiac muscle tissue is only found in the heart. Highly coordinated contractions of cardiac muscle pump blood into the vessels of the circulatory system. Similar to skeletal muscle, cardiac muscle is striated and organized into sarcomeres, possessing the same banding organization as skeletal muscle (<link target-id="fig-ch10_07_01" document=""/>). However, cardiac muscle fibers are shorter than skeletal muscle fibers and usually contain only one nucleus, which is located in the central region of the cell. Cardiac muscle fibers also possess many mitochondria and myoglobin, as ATP is produced primarily through aerobic metabolism. Cardiac muscle fibers cells also are extensively branched and are connected to one another at their ends by intercalated discs. An <term>intercalated disc</term> allows the cardiac muscle cells to contract in a wave-like pattern so that the heart can work as a pump.</para>
+<figure id="fig-ch10_07_01"><title>Cardiac Muscle Tissue </title><media id="fs-id1401365" alt="This image is a micrograph of cardiac muscle cells.">
+<image mime-type="image/jpg" src="../../media/414c_Cardiacmuscle.jpg" width="380"/>
+</media>
+<caption>Cardiac muscle tissue is only found in the heart. LM × 1600. (Micrograph provided by the Regents of University of Michigan Medical School © 2012)</caption></figure><para id="fs-id1389642">Intercalated discs are part of the sarcolemma and contain two structures important in cardiac muscle contraction: gap junctions and desmosomes. The <term>gap junctions</term> enhance electrical communication between muscle cells, so that all contract at the same time.  This network of electrically connected cardiac muscle cells allow all of the muscle cells to contract at the same moment.  This creates a functional unit of contraction called a <term>functional syncytium</term>. The remainder of the intercalated disc is composed of desmosomes. A <term>desmosome</term> is a cell structure that anchors the ends of cardiac muscle fibers together so the cells do not pull apart during the stress of individual fibers contracting (<link target-id="fig-ch10_07_02" document=""/>).</para><figure id="fig-ch10_07_02"><title>Cardiac Muscle </title><media id="fs-id2344132" alt="This image shows the structure of the cardiac muscle. A small image of the heart is shown on the top left of the figure and then a magnified view of the cardiac muscle is shown, with the nucleus and the cardiac muscle fiber labeled. A further magnification shows the structure of the intercalated discs with the desmosome and gap junction.">
+<image mime-type="image/jpg" src="../../media/1020_Cardiac_Muscle.jpg" width="480"/>
+</media>
+<caption>Intercalated discs are part of the cardiac muscle sarcolemma and they contain gap junctions and desmosomes.</caption></figure><para id="fs-id1853723">Contractions of the heart (heartbeats) are controlled by specialized cardiac muscle cells called <term> pacemaker cells</term> that directly control heart rate. Although cardiac muscle cannot be consciously controlled, the pacemaker cells respond to signals from the autonomic nervous system (ANS) to speed up or slow down the heart rate. The pacemaker cells can also respond to various hormones that modulate heart rate to control blood pressure.</para><para id="fs-id2254456">The wave of contraction that allows the heart to work as a unit, called a functional syncytium, begins with the pacemaker cells. This group of cells is self-excitable and able to stimulate the rest of the heart to contract, a feature called <term>autorhythmicity</term>; they do this at set intervals which determine heart rate. Because they are connected with gap junctions to surrounding muscle fibers and the specialized fibers of the heart’s conduction system, the pacemaker cells are able to transfer the signal to contract to the other cardiac muscle fibers in a manner that allows the heart to contract in a coordinated manner.</para></content>
+<glossary>
+<definition id="fs-id1433438"><term>autorhythmicity</term> <meaning id="fs-id1351757">heart’s ability to control its own contractions</meaning></definition>
+<definition id="fs-id2311104"><term>desmosome</term> <meaning id="fs-id1349986">cell structure that anchors the ends of cardiac muscle fibers to allow contraction to occur</meaning></definition>
+<definition id="fs-id2302827"><term>intercalated disc</term> <meaning id="fs-id1989406">part of the sarcolemma that connects cardiac tissue, and contains gap junctions and desmosomes</meaning></definition>
+</glossary>
+</document>
